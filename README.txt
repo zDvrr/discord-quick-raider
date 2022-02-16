@@ -1,3 +1,6 @@
+PATCHED PATCHED PATCHED | 
+-------------------------
+
 EDUCATIONAL PURPOSES ONLY
 This python script raids a discord server quickly.
 NOTE: You will need to put your own account tokens in tokens.txt or else it won't raid.
@@ -17,3 +20,6 @@ DISCORD SERVER: https://discord.gg/ZvH53Apb6s
 SCRIPT BY: zdvrer#8413
 
 (join the discord server for unreleased scripts)
+
+-------------------------
+PATCHED PATCHED PATCHED | 
