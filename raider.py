@@ -117,6 +117,6 @@ def main():
 def menu():
 	clear()
 	os.system('title Discord quick raider tool [zdvrer#8413] ^| A very quick discord server raider.')
-	print('Infinity studios | https://discord.gg/ZvH53Apb6s')
+	print('Infinity studios | https://discord.gg/U3Vj2rahNa')
 if __name__ == "__main__":
 	main()
