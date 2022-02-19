@@ -16,7 +16,7 @@ If you want to mass leave a server with your alts just open massleave.py
 
 If you have any problems please report them to the discord server below!
 
-DISCORD SERVER: https://discord.gg/ZvH53Apb6s
+DISCORD SERVER: https://discord.gg/U3Vj2rahNa
 SCRIPT BY: zdvrer#8413
 
 (join the discord server for unreleased scripts)
